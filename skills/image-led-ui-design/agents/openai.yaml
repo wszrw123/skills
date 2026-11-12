@@ -1,4 +1,4 @@
 interface:
-  display_name: "图片驱动 UI 与操作减负"
-  short_description: "用统一摄影、插画与图标提升设计感，同时减少手机应用的填写与点击"
-  default_prompt: "使用 $image-led-ui-design 优化当前项目：保留我满意的设计，以统一图片素材丰富视觉，同时减少必填项、点击和重复操作，并验证手机上的完整流程。"
+  display_name: "Image-Led UI Design"
+  short_description: "Image-led UI/UX design, cohesive visual assets, and simpler user workflows"
+  default_prompt: "Use $image-led-ui-design to redesign the current interface: preserve approved visual language, use image-led visual direction and cohesive assets, simplify the key user journey, and verify the complete task flow."
