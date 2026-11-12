@@ -1,6 +1,6 @@
 ---
 name: image-led-ui-design
-description: "Use when an existing UI needs a stronger image-led visual language or simpler interaction flow; not for minor spacing or color tweaks."
+description: "Use when redesigning an existing UI with image-led visual direction, cohesive visual assets, preservation of approved design language, or simpler user workflows; useful for mobile and web product experience improvements."
 ---
 
 # 图片驱动的 UI 设计与操作减负
@@ -76,4 +76,3 @@ description: "Use when an existing UI needs a stronger image-led visual language
 - **交付质量：** 运行与修改相称的类型检查、测试或构建，实际查看截图；关注图像体积和首屏加载。未实测的设备或服务明确标注。
 
 最终说明哪些视觉改变、哪些操作减少、验证证据和真实限制。先交付可体验结果，避免只有概念说明或生图展示而没有完成用户要求的实现。
-
